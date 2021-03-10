@@ -27,3 +27,7 @@ For project management purposes issues can be arranged into a [project](https://
 ## Milestones
 
 As a bonus feature you might also read a bit about [milestones](https://docs.github.com/en/github/managing-your-work-on-github/about-milestones) - we might consdier using them later to track more complex projects. 
+
+## More project info tools
+
+Can be added using [Wiki pages](https://docs.github.com/en/github/building-a-strong-community/about-wikis) or new feature of [Dicsussions](https://docs.github.com/en/discussions)
