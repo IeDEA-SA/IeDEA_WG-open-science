@@ -30,4 +30,4 @@ As a bonus feature you might also read a bit about [milestones](https://docs.git
 
 ## More project info tools
 
-Can be added using [Wiki pages](https://docs.github.com/en/github/building-a-strong-community/about-wikis) or new feature of [Dicsussions](https://docs.github.com/en/discussions)
+Can be added using [Wiki pages](https://docs.github.com/en/github/building-a-strong-community/about-wikis) or new feature of [Dicsussions](https://docs.github.com/en/discussions). Currently we do not have wiki here (not available in free tier) but we can use discussion [here](https://github.com/IeDEA-SA/WG_open-science/discussions)
