@@ -31,3 +31,21 @@ As a bonus feature you might also read a bit about [milestones](https://docs.git
 ## More project info tools
 
 Can be added using [Wiki pages](https://docs.github.com/en/github/building-a-strong-community/about-wikis) or new feature of [Dicsussions](https://docs.github.com/en/discussions). Currently we do not have wiki here (not available in free tier) but we can use discussion [here](https://github.com/IeDEA-SA/WG_open-science/discussions)
+
+# More git & github materials
+
+## Books  
+
+Rather R and Rstudio oriented, but excellent intro nonetheless is Jenny's [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+
+Pro Git [book](https://git-scm.com/book/en/v2)
+
+## Courses
+
+## Other
+
+Documentation from the [atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
+Github's [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+
+Jan's [cheat sheet](https://jan-krueger.net/git-cheat-sheet-extended-edition)
