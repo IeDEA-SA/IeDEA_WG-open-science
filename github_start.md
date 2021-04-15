@@ -42,6 +42,8 @@ Pro Git [book](https://git-scm.com/book/en/v2)
 
 ## Courses
 
+[VIB](https://material.bits.vib.be/topics/git-introduction/)
+
 ## Other
 
 Documentation from the [atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
