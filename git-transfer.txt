@@ -8,7 +8,7 @@ origin  https://github.com/RPanczak/IeDEA_analyse.git (push)
 
 git remote remove origin
 
-git remote add origin https://github.com/IeDEA/IeDEA_analyse.git 
+git remote add origin https://github.com/IeDEA-SA/IeDEA_analyse.git 
 
 git branch --set-upstream-to=origin/master
 
