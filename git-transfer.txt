@@ -10,7 +10,7 @@ git remote remove origin
 
 git remote add origin https://github.com/IeDEA-SA/IeDEA_analyse.git 
 
-git branch --set-upstream-to=origin/master
+git branch --set-upstream-to=origin/main
 
 git remote -v
 cat .git/config
