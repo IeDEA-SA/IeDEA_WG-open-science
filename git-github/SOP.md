@@ -80,15 +80,15 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 1. Past ISPM course:  
 
-  1. Session I: Git and GitHub: get your files under control! ([Slides](https://unibe365-my.sharepoint.com/:p:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/gitcourse_part1.pptx?d=wf9624a839d4c4b0780550848ee18af2d&csf=1&web=1&e=Cpxbkm); [Recording](https://unibe365-my.sharepoint.com/:v:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/GMT20210602-061802_Recording_1920x900.mp4?csf=1&web=1&e=MijnGx))  
+    1. Session I: Git and GitHub: get your files under control! ([Slides](https://unibe365-my.sharepoint.com/:p:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/gitcourse_part1.pptx?d=wf9624a839d4c4b0780550848ee18af2d&csf=1&web=1&e=Cpxbkm); [Recording](https://unibe365-my.sharepoint.com/:v:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/GMT20210602-061802_Recording_1920x900.mp4?csf=1&web=1&e=MijnGx))  
 
-  2. Session II: Git and GitHub: get your files under control! ([Slides](https://unibe365-my.sharepoint.com/:p:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/gitcourse_part2.pptx?d=wbfbae843947e4e69992f09f08f12c7c5&csf=1&web=1&e=kQDw6k); [Recording](https://unibe365-my.sharepoint.com/:v:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/GMT20210608-062040_Recording_1760x900.mp4?csf=1&web=1&e=WhQV4p))    
+    2. Session II: Git and GitHub: get your files under control! ([Slides](https://unibe365-my.sharepoint.com/:p:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/gitcourse_part2.pptx?d=wbfbae843947e4e69992f09f08f12c7c5&csf=1&web=1&e=kQDw6k); [Recording](https://unibe365-my.sharepoint.com/:v:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/GMT20210608-062040_Recording_1760x900.mp4?csf=1&web=1&e=WhQV4p))    
 
 2. In person courses might be offered by:
 
-   1. CH:
-    1.[SIB](https://www.sib.swiss/)
-    2. [UniBe](https://www.scits.unibe.ch/training/training_and_workshops/)
+    1. CH:
+        1.[SIB](https://www.sib.swiss/)
+        2. [UniBe](https://www.scits.unibe.ch/training/training_and_workshops/)
 
    2. SA:
     1. ...
