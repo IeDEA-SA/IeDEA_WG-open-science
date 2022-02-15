@@ -86,11 +86,11 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 2. In person courses might be offered by:
 
-  1. CH:
+   1. CH:
     1.[SIB](https://www.sib.swiss/)
     2. [UniBe](https://www.scits.unibe.ch/training/training_and_workshops/)
 
-  2. SA:
+   2. SA:
     1. ...
 
 3. GitHub short courses:  
