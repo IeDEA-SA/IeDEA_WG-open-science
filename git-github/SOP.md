@@ -122,9 +122,9 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 ### Institutional points of contact
 
-    1. [Radoslaw Panczak](mailto:radoslaw.panczak@ispm.unibe.ch), [Julien Riou](mailto:julien.riou@ispm.unibe.ch) and [Yann Ruffieux](mailto:yann.ruffieux@ispm.unibe.ch) \@UniBe  
+1. [Radoslaw Panczak](mailto:radoslaw.panczak@ispm.unibe.ch), [Julien Riou](mailto:julien.riou@ispm.unibe.ch) and [Yann Ruffieux](mailto:yann.ruffieux@ispm.unibe.ch) \@UniBe  
 
-    2. ... \@UCT  
+2. ... \@UCT  
 
 
 ## Implementation
