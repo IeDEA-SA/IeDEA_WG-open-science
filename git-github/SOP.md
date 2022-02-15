@@ -96,28 +96,23 @@ We believe that the processes of saving and sharing the code in a searchable man
 3. GitHub short courses:  
 
     1. [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)  
-
     2. [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)  
 
 4. Coursera courses:  
 
     1. [Introduction to Git and GitHub](https://www.courser1.org/learn/introduction-git-github)  
-
     2. [Version Control with Git](https://www.courser1.org/learn/version-control-with-git)  
 
 5. Tutorials:  
 
     1. Ten Simple Rules for Taking Advantage of Git and GitHub [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
-
     2. A Quick Introduction to Version Control with Git and GitHub [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)  
     3. Atlassian [tutorials](https://www.atlassian.com/git/tutorials)  
 
 6. Books:  
 
     1. [Conversational Git](http://blog.anvard.org/conversational-git/)  
-
     2. [Happy Git and GitHub for the useR](https://happygitwithr.com/)  
-
     3. [Pro Git](https://git-scm.com/book/en/v2)  
 
 7. Cheat sheets:  
