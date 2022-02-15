@@ -80,54 +80,50 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 1. Past ISPM course:  
 
-  a. Session I: Git and GitHub: get your files under control! ([Slides](https://unibe365-my.sharepoint.com/:p:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/gitcourse_part1.pptx?d=wf9624a839d4c4b0780550848ee18af2d&csf=1&web=1&e=Cpxbkm); [Recording](https://unibe365-my.sharepoint.com/:v:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/GMT20210602-061802_Recording_1920x900.mp4?csf=1&web=1&e=MijnGx))  
+  1. Session I: Git and GitHub: get your files under control! ([Slides](https://unibe365-my.sharepoint.com/:p:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/gitcourse_part1.pptx?d=wf9624a839d4c4b0780550848ee18af2d&csf=1&web=1&e=Cpxbkm); [Recording](https://unibe365-my.sharepoint.com/:v:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/GMT20210602-061802_Recording_1920x900.mp4?csf=1&web=1&e=MijnGx))  
 
-  b. Session II: Git and GitHub: get your files under control! ([Slides](https://unibe365-my.sharepoint.com/:p:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/gitcourse_part2.pptx?d=wbfbae843947e4e69992f09f08f12c7c5&csf=1&web=1&e=kQDw6k); [Recording](https://unibe365-my.sharepoint.com/:v:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/GMT20210608-062040_Recording_1760x900.mp4?csf=1&web=1&e=WhQV4p))    
+  2. Session II: Git and GitHub: get your files under control! ([Slides](https://unibe365-my.sharepoint.com/:p:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/gitcourse_part2.pptx?d=wbfbae843947e4e69992f09f08f12c7c5&csf=1&web=1&e=kQDw6k); [Recording](https://unibe365-my.sharepoint.com/:v:/r/personal/smith_campus_unibe_ch/Documents/IeDEA%20Collaboration/Projects%20%26%20WGs/Open%20Science/Course%20Materials/GMT20210608-062040_Recording_1760x900.mp4?csf=1&web=1&e=WhQV4p))    
 
-3. In person courses might be offered by:
+2. In person courses might be offered by:
 
-  a.  CH:
+  1. CH:
+    1.[SIB](https://www.sib.swiss/)
+    2. [UniBe](https://www.scits.unibe.ch/training/training_and_workshops/)
 
-  i.  [SIB](https://www.sib.swiss/)
+  2. SA:
+    1. ...
 
-  ii. [UniBe](https://www.scits.unibe.ch/training/training_and_workshops/)
+3. GitHub short courses:  
 
-  b.  SA:
-        
-  i. ...
+  1. [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)  
 
-4. GitHub short courses:  
+  2. [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)  
 
-  a. [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)  
+4. Coursera courses:  
 
-  b. [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)  
+  1. [Introduction to Git and GitHub](https://www.courser1.org/learn/introduction-git-github)  
 
-5. Coursera courses:  
+  2. [Version Control with Git](https://www.courser1.org/learn/version-control-with-git)  
 
-  a. [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)  
+5. Tutorials:  
 
-  b. [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)  
+  1. Ten Simple Rules for Taking Advantage of Git and GitHub [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
 
-6. Tutorials:  
-
-  a. Ten Simple Rules for Taking Advantage of Git and GitHub [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
-
-  b. A Quick Introduction to Version Control with Git and GitHub [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)  
+  2. A Quick Introduction to Version Control with Git and GitHub [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)  
   c. Atlassian [tutorials](https://www.atlassian.com/git/tutorials)  
 
-7.  Books:  
+6. Books:  
 
-  a.  [Conversational Git](http://blog.anvard.org/conversational-git/)  
+  1. [Conversational Git](http://blog.anvard.org/conversational-git/)  
 
-  b.  [Happy Git and GitHub for the useR](https://happygitwithr.com/)  
+  2. [Happy Git and GitHub for the useR](https://happygitwithr.com/)  
 
-  c.  [Pro Git](https://git-scm.com/book/en/v2)  
+  3. [Pro Git](https://git-scm.com/book/en/v2)  
 
-8.  Cheat sheets:  
+7. Cheat sheets:  
 
-  a. GitHub's [cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)  
-
-  b. GitLab's [cheatsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)  
+  1. GitHub's [cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)  2
+  2. GitLab's [cheatsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)  
 
 ### Institutional points of contact
 
@@ -142,21 +138,21 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 1. Projects that **carry a concept sheet number** should use it as the name prefixed with `IeDEA`. Examples of correctly named repositories are:
 
-  a. `IeDEA_SA000` for regional projects  
+  1. `IeDEA_SA000` for regional projects  
 
-  b. `IeDEA_MR000` for multiregional projects  
+  2. `IeDEA_MR000` for multiregional projects  
 
 2. When projects **do not yet have a concept sheet number** use the `IeDEA` prefix mentioned above with one to two words added to describe the project. Please note that the repositories' names should be changed to the concept sheet number once assigned. Examples of projects without concept sheet numbers are:
 
-  a. `IeDEA_ART` (draft [project](https://github.com/IeDEA-SA/IeDEA_ART) focused on the ATC codes of antiretroviral medications)  
+  1. `IeDEA_ART` (draft [project](https://github.com/IeDEA-SA/IeDEA_ART) focused on the ATC codes of antiretroviral medications)  
 
-  b. `IeDEA_DTG` (early stage [project](https://github.com/IeDEA-SA/IeDEA_DTG) focused on the exploration of DTG use in \@IeDEA-SA)  
+  2. `IeDEA_DTG` (early stage [project](https://github.com/IeDEA-SA/IeDEA_DTG) focused on the exploration of DTG use in \@IeDEA-SA)  
 
 3. Same logic applies to projects that will (most likely) **never be assigned a concept sheet number**. Examples are:  
 
-  a. [`IeDEA_data-mgmt`](https://github.com/IeDEA-SA/IeDEA_data-mgmt) (project focused on documenting approaches to data preparation)  
+  1. [`IeDEA_data-mgmt`](https://github.com/IeDEA-SA/IeDEA_data-mgmt) (project focused on documenting approaches to data preparation)  
 
-  b. [`IeDEA_analyse`](https://github.com/IeDEA-SA/IeDEA_analyse)** (project focused on preparation of a simplified, 'analyse' ready dataset)
+  2. [`IeDEA_analyse`](https://github.com/IeDEA-SA/IeDEA_analyse)** (project focused on preparation of a simplified, 'analyse' ready dataset)
 
 4. Please **adhere** to *strict naming conventions* for repositoriesand try and be consistent. Unleash your creativity on writing beautiful code and engaging prose, not reinventing naming conventions.  
 
@@ -170,7 +166,7 @@ We believe that the processes of saving and sharing the code in a searchable man
 
   `<https://github.com/RPanczak/ISPM_excess-mortality>`  
 
-3. The ownership of the repositories can be **transferred** between the users. For instance, private repository can be transferred to **[\@IeDEA-SA](https://github.com/IeDEA-SA) organisation** and vice versa.
+3. The ownership of the repositories can be **transferred** between the users. For instance, private repository can be transferred to **[\@IeDEA-SA](https://github.com/IeDEA-SA) organisation** and vice vers1.
 
 
 ### Depositing code
@@ -198,9 +194,9 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 2. [Creative Commons](https://creativecommons.org/) licensing's philosophy and vocabulary can be used to describe how the authors wish the code to be (re)used. In particular:  
 
-  a. **`BY`** clause can be used to indicate that the authors wish to be credited if the code is reused  
+  1. **`BY`** clause can be used to indicate that the authors wish to be credited if the code is reused  
 
-  b. **`SA`** (share alike) clause can be used to indicate that adapted code should be distributed under the same reuse rights as the original code  
+  2. **`SA`** (share alike) clause can be used to indicate that adapted code should be distributed under the same reuse rights as the original code  
 
 3. If no license is specified, we will assume the **conservative option of a BY-SA** type of licence to promote fair attribution and openness.  
 
@@ -213,13 +209,13 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 ### Code review
 
-1. At the request of the project's team, analytical code deposited prior to publication can undergo [code review](https://en.wikipedia.org/wiki/Code_review) process.  
+1. At the request of the project's team, analytical code deposited prior to publication can undergo [code review](https://en.wikipedi1.org/wiki/Code_review) process.  
 
 2. *Upon approval of resources and resolution of authorship contribution by one of the project leads* another analyst will review the analyses to assure quality and spot potential errors or inefficiencies.  
 
-  a. The lead and senior authors should inform the open science working group about the intention of the review process *at the early stage of the project* in order to facilitate resources planning  
+  1. The lead and senior authors should inform the open science working group about the intention of the review process *at the early stage of the project* in order to facilitate resources planning  
 
-  b. The lead and senior authors should discuss the level of involvement of the reviewer and the form of attribution (in the repository `README` and in the publication) *prior to the review process*  
+  2. The lead and senior authors should discuss the level of involvement of the reviewer and the form of attribution (in the repository `README` and in the publication) *prior to the review process*  
 
 ### Internal replication
 
@@ -227,9 +223,9 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 2. *Upon approval of resources and resolution of authorship contribution by one of the project leads* another analyst will attempt to replicate the complete analyses to assure quality and reproducibility.  
 
-  a. The lead and senior authors should inform the open science working group about the intention of the replication *at the early stage of the project* in order to facilitate resources planning  
+  1. The lead and senior authors should inform the open science working group about the intention of the replication *at the early stage of the project* in order to facilitate resources planning  
 
-  b. The lead and senior authors should discuss the level of involvement of the reviewer and the form of attribution (in the repository `README` and in the publication) *prior to the review process*   
+  2. The lead and senior authors should discuss the level of involvement of the reviewer and the form of attribution (in the repository `README` and in the publication) *prior to the review process*   
 
 ### GitHub issues
 
