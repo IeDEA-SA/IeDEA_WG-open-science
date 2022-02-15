@@ -25,15 +25,11 @@ Collaboration\\Projects & WGs\\Open Science
 
 *Revision index:*
 
-| ***Version*** | ***Summary of changes*** | ***Reason for change(s)***                 |
-                            
+| ***Version*** | ***Summary of changes*** | ***Reason for change(s)***                  |
 | ------------- | ------------------------ | ------------------------------------------  | 
 |  0.1          |     1st draft            | NA                                          |
-
 |  0.2          |     2nd draft            | Including WG's comments                     |
-
 |  0.3          |     3rd draft            | Including team's comments                   |
-  
 |  0.4          |     4th draft            | @RPanczak split code review and replication |
 
 
