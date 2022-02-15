@@ -86,50 +86,50 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 2. In person courses might be offered by:
 
-    1. CH:
-        1.[SIB](https://www.sib.swiss/)
-        2. [UniBe](https://www.scits.unibe.ch/training/training_and_workshops/)
+    1. CH:  
+        1.[SIB](https://www.sib.swiss/)  
+        2. [UniBe](https://www.scits.unibe.ch/training/training_and_workshops/)  
 
-   2. SA:
-    1. ...
+    2. SA:
+        1. ...  
 
 3. GitHub short courses:  
 
-  1. [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)  
+    1. [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)  
 
-  2. [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)  
+    2. [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)  
 
 4. Coursera courses:  
 
-  1. [Introduction to Git and GitHub](https://www.courser1.org/learn/introduction-git-github)  
+    1. [Introduction to Git and GitHub](https://www.courser1.org/learn/introduction-git-github)  
 
-  2. [Version Control with Git](https://www.courser1.org/learn/version-control-with-git)  
+    2. [Version Control with Git](https://www.courser1.org/learn/version-control-with-git)  
 
 5. Tutorials:  
 
-  1. Ten Simple Rules for Taking Advantage of Git and GitHub [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
+    1. Ten Simple Rules for Taking Advantage of Git and GitHub [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
 
-  2. A Quick Introduction to Version Control with Git and GitHub [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)  
-  c. Atlassian [tutorials](https://www.atlassian.com/git/tutorials)  
+    2. A Quick Introduction to Version Control with Git and GitHub [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)  
+    3. Atlassian [tutorials](https://www.atlassian.com/git/tutorials)  
 
 6. Books:  
 
-  1. [Conversational Git](http://blog.anvard.org/conversational-git/)  
+    1. [Conversational Git](http://blog.anvard.org/conversational-git/)  
 
-  2. [Happy Git and GitHub for the useR](https://happygitwithr.com/)  
+    2. [Happy Git and GitHub for the useR](https://happygitwithr.com/)  
 
-  3. [Pro Git](https://git-scm.com/book/en/v2)  
+    3. [Pro Git](https://git-scm.com/book/en/v2)  
 
 7. Cheat sheets:  
 
-  1. GitHub's [cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)  2
-  2. GitLab's [cheatsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)  
+    1. GitHub's [cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)  
+    2. GitLab's [cheatsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)  
 
 ### Institutional points of contact
 
-1. [Radoslaw Panczak](mailto:radoslaw.panczak@ispm.unibe.ch), [Julien Riou](mailto:julien.riou@ispm.unibe.ch) and [Yann Ruffieux](mailto:yann.ruffieux@ispm.unibe.ch) \@UniBe
+    1. [Radoslaw Panczak](mailto:radoslaw.panczak@ispm.unibe.ch), [Julien Riou](mailto:julien.riou@ispm.unibe.ch) and [Yann Ruffieux](mailto:yann.ruffieux@ispm.unibe.ch) \@UniBe  
 
-2. ... \@UCT
+    2. ... \@UCT  
 
 
 ## Implementation
@@ -138,21 +138,21 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 1. Projects that **carry a concept sheet number** should use it as the name prefixed with `IeDEA`. Examples of correctly named repositories are:
 
-  1. `IeDEA_SA000` for regional projects  
+    1. `IeDEA_SA000` for regional projects  
 
-  2. `IeDEA_MR000` for multiregional projects  
+    2. `IeDEA_MR000` for multiregional projects  
 
 2. When projects **do not yet have a concept sheet number** use the `IeDEA` prefix mentioned above with one to two words added to describe the project. Please note that the repositories' names should be changed to the concept sheet number once assigned. Examples of projects without concept sheet numbers are:
 
-  1. `IeDEA_ART` (draft [project](https://github.com/IeDEA-SA/IeDEA_ART) focused on the ATC codes of antiretroviral medications)  
+    1. `IeDEA_ART` (draft [project](https://github.com/IeDEA-SA/IeDEA_ART) focused on the ATC codes of antiretroviral medications)  
 
-  2. `IeDEA_DTG` (early stage [project](https://github.com/IeDEA-SA/IeDEA_DTG) focused on the exploration of DTG use in \@IeDEA-SA)  
+    2. `IeDEA_DTG` (early stage [project](https://github.com/IeDEA-SA/IeDEA_DTG) focused on the exploration of DTG use in \@IeDEA-SA)  
 
 3. Same logic applies to projects that will (most likely) **never be assigned a concept sheet number**. Examples are:  
 
-  1. [`IeDEA_data-mgmt`](https://github.com/IeDEA-SA/IeDEA_data-mgmt) (project focused on documenting approaches to data preparation)  
+    1. [`IeDEA_data-mgmt`](https://github.com/IeDEA-SA/IeDEA_data-mgmt) (project focused on documenting approaches to data preparation)  
 
-  2. [`IeDEA_analyse`](https://github.com/IeDEA-SA/IeDEA_analyse)** (project focused on preparation of a simplified, 'analyse' ready dataset)
+    2. [`IeDEA_analyse`](https://github.com/IeDEA-SA/IeDEA_analyse)** (project focused on preparation of a simplified, 'analyse' ready dataset)
 
 4. Please **adhere** to *strict naming conventions* for repositoriesand try and be consistent. Unleash your creativity on writing beautiful code and engaging prose, not reinventing naming conventions.  
 
@@ -194,9 +194,9 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 2. [Creative Commons](https://creativecommons.org/) licensing's philosophy and vocabulary can be used to describe how the authors wish the code to be (re)used. In particular:  
 
-  1. **`BY`** clause can be used to indicate that the authors wish to be credited if the code is reused  
+    1. **`BY`** clause can be used to indicate that the authors wish to be credited if the code is reused  
 
-  2. **`SA`** (share alike) clause can be used to indicate that adapted code should be distributed under the same reuse rights as the original code  
+    2. **`SA`** (share alike) clause can be used to indicate that adapted code should be distributed under the same reuse rights as the original code  
 
 3. If no license is specified, we will assume the **conservative option of a BY-SA** type of licence to promote fair attribution and openness.  
 
@@ -213,9 +213,9 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 2. *Upon approval of resources and resolution of authorship contribution by one of the project leads* another analyst will review the analyses to assure quality and spot potential errors or inefficiencies.  
 
-  1. The lead and senior authors should inform the open science working group about the intention of the review process *at the early stage of the project* in order to facilitate resources planning  
+3. The lead and senior authors should inform the open science working group about the intention of the review process *at the early stage of the project* in order to facilitate resources planning  
 
-  2. The lead and senior authors should discuss the level of involvement of the reviewer and the form of attribution (in the repository `README` and in the publication) *prior to the review process*  
+4. The lead and senior authors should discuss the level of involvement of the reviewer and the form of attribution (in the repository `README` and in the publication) *prior to the review process*  
 
 ### Internal replication
 
@@ -223,9 +223,9 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 2. *Upon approval of resources and resolution of authorship contribution by one of the project leads* another analyst will attempt to replicate the complete analyses to assure quality and reproducibility.  
 
-  1. The lead and senior authors should inform the open science working group about the intention of the replication *at the early stage of the project* in order to facilitate resources planning  
+3. The lead and senior authors should inform the open science working group about the intention of the replication *at the early stage of the project* in order to facilitate resources planning  
 
-  2. The lead and senior authors should discuss the level of involvement of the reviewer and the form of attribution (in the repository `README` and in the publication) *prior to the review process*   
+4. The lead and senior authors should discuss the level of involvement of the reviewer and the form of attribution (in the repository `README` and in the publication) *prior to the review process*   
 
 ### GitHub issues
 
