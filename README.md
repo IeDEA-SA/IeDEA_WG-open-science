@@ -1,6 +1,4 @@
-# IeDEA_WG-open-science
-
-IeDEA-SA open science working group materials.  
+# IeDEA-SA open science working group materials.  
 
 ## Git & GitHub materials 
 
