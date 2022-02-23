@@ -12,11 +12,11 @@ of *[IeDEA-SA Open Science Working Group](https://github.com/orgs/IeDEA-SA/teams
 
 *Approved by:* @jriou, ...
 
-*Version:* 0.4
+*Version:* 0.5
 
 *Valid from:* **TBC**
 
-*Last revision:* 2022-02-15
+*Last revision:* 2022-02-16
 
 *Location of SOP:*  
   - locally: ..\\OneDrive - Universitaet Bern\\IeDEA
@@ -31,11 +31,14 @@ Collaboration\\Projects & WGs\\Open Science
 |  0.2          |     2nd draft            | Including WG's comments                                  |
 |  0.3          |     3rd draft            | Including team's comments                                |
 |  0.4          |     4th draft            | @RPanczak moved to md; split code review and replication |
+|  0.5          |     5th draft            | @RPanczak more on communication; added definitions       |
 
 
 </font>
 
 <font size = "3">
+
+------------------------------------------------------
 
 **Table of Contents**  
 
@@ -45,8 +48,12 @@ Collaboration\\Projects & WGs\\Open Science
 
 [Quality control](#quality-control)  
 
+[Communication](#communication)  
+
 
 </font>
+
+------------------------------------------------------
 
 ## General information  
 
@@ -68,13 +75,32 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 - project ***knowledge preservation*** versus only archiving information.  
 
+### Definitions
+
+Here are some excerpts from the FORRT [glossary](https://forrt.org/glossary/).  
+
+1. Reproducibility:  
+
+> A minimum standard on a spectrum of activities (“reproducibility spectrum”) for assessing the value or accuracy of scientific claims based on the original methods, data, and code. For instance, where the original researcher’s data and computer codes are used to regenerate the results (Barba, 2018), often referred to as computational reproducibility. Reproducibility does not guarantee the quality, correctness, or validity of the published results (Peng, 2011). In some fields, this meaning is, instead, associated with the term 'replicability' or ‘repeatability’.
+
+2. Computational reproducibility:  
+
+> Ability to recreate the same results as the original study (including tables, figures, and quantitative findings), using the same input data, computational methods, and conditions of analysis. The availability of code and data facilitates computational reproducibility, as does preparation of these materials (annotating data, delineating software versions used, sharing computational environments, etc). Ideally, computational reproducibility should be achievable by another second researcher (or the original researcher, at a future time), using only a set of files and written instructions. Also referred to as analytic reproducibility (LeBel et al., 2018).
+
+3. Version control:  
+
+> The practice of managing and recording changes to digital resources (e.g. files, websites, programmes, etc.) over time so that you can recall specific versions later. Version control systems are designed to record the history of changes (who, what and when), and help to avoid human errors (e.g. working on the wrong version). 
+
+4. Git:  
+
+> A software package for tracking changes in a local set of files (local version control), initially developed by Linus Torvalds. In general, it is used by programmers to track and develop computer source code within a set directory, folder or a file system. Git can access remote repository hosting services (e.g. GitHub) for remote version control that enables collaborative software development by uploading contributions from a local system. This process found its way into the scientific process to enable open data, open code and reproducible analyses.
+
 
 ### Version control software and online code hosting  
 
 1. We primarily **use and recommend [git](https://git-scm.com/)** as a version control *software*.  
 
 2. We primarily **use and recommend [GitHub](https://github.com/)** as an on-line code *hosting* and *collaboration platform* provider.  
-
 
 ### Teaching & learning materials  
 
@@ -126,6 +152,7 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 2. ... \@UCT  
 
+------------------------------------------------------
 
 ## Implementation
 
@@ -155,14 +182,13 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 1. We recommend choosing **organization [\@IeDEA-SA](https://github.com/IeDEA-SA)** to own the repository containing the work. You will still be recognized as the main contributor. The URL format of projects then becomes:  
 
-  `<https://github.com/IeDEA-SA/IeDEA_SA217>`  
+  `https://github.com/IeDEA-SA/IeDEA_SA217`  
 
 2. Alternatively, you can choose to **personally** own the repositories containing materials of your IeDEA related projects as long as you inform the open science working group about the location of the project, update the [directory](https://github.com/IeDEA-SA/.github/blob/main/profile/README.md) and enable read access for all **[\@IeDEA-SA](https://github.com/IeDEA-SA) organisation** members. The URL format of projects then becomes:  
 
-  `<https://github.com/RPanczak/ISPM_excess-mortality>`  
+  `https://github.com/RPanczak/ISPM_excess-mortality`  
 
 3. The ownership of the repositories can be **transferred** between the users. For instance, private repository can be transferred to **[\@IeDEA-SA](https://github.com/IeDEA-SA) organisation** and vice vers1.
-
 
 ### Depositing code
 
@@ -182,7 +208,6 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 4. **Whenever possible,** the project's code should be **made publicly available** and **a link to the repository should appear in all related publications.**  
 
-
 ### Licensing & code reuse
 
 1. We encourage the repository owners to specify **conditions under which they allow the code to be reused**.  
@@ -199,6 +224,7 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 5. If code with a 'BY' clause is reused, the **original author** should be **contacted** by the lead and senior authors of the current project to discuss the appropriate form of **acknowledgement**, citation, and potential authorship involvement in a new project.  
 
+------------------------------------------------------
 
 ## Quality control
 
@@ -222,6 +248,10 @@ We believe that the processes of saving and sharing the code in a searchable man
 
 4. The lead and senior authors should discuss the level of involvement of the reviewer and the form of attribution (in the repository `README` and in the publication) *prior to the review process*   
 
+------------------------------------------------------
+
+## Communication
+
 ### GitHub issues
 
 1. [GitHub issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) should be used to communicate and discuss unsolved or newly discovered problems.
@@ -229,3 +259,9 @@ We believe that the processes of saving and sharing the code in a searchable man
 2. Open science working group members will collect and monitor unsolved issues and help in finding and assigning them to persons that might be able to contribute to the solution.
 
 3. The same rules of attribution as discussed in section 5 of the *Licensing & code reuse* should be followed if collaborators make substantial contributions at the stage of the code review.
+
+4. Boards
+
+### GitHub wiki
+
+### GitHub discussions
