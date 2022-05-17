@@ -44,6 +44,8 @@ Pro Git [book](https://git-scm.com/book/en/v2)
 
 [VIB](https://material.bits.vib.be/topics/git-introduction/)
 
+Carpentries courses: [Introduction to Git](https://librarycarpentry.org/lc-git/) and [Version Control with Git](https://swcarpentry.github.io/git-novice/)
+
 ## Other
 
 Documentation from the [atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
