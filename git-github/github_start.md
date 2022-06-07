@@ -1,5 +1,9 @@
 # Few github pointers.
 
+## Motivation
+
+Openscapes concise [desctription](https://www.openscapes.org/blog/2022/05/27/github-illustrated-series/) of 'GitHub for supporting, reusing, contributing, and failing safely' 
+
 ## Accounts
 
 Our organisation is [IeDEA-SA](https://github.com/IeDEA-SA). 
