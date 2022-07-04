@@ -138,6 +138,7 @@ Here are some excerpts from the FORRT [glossary](https://forrt.org/glossary/).
     1. Ten Simple Rules for Taking Advantage of Git and GitHub [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
     2. A Quick Introduction to Version Control with Git and GitHub [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)  
     3. Atlassian [tutorials](https://www.atlassian.com/git/tutorials)  
+    4. Slightly longer [tutorial](https://www.toolsqa.com/git/git-tutorial/) from ToolsQA
 
 7. Books:  
 
