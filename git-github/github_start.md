@@ -38,6 +38,12 @@ Can be added using [Wiki pages](https://docs.github.com/en/github/building-a-str
 
 # More git & github materials
 
+## Visual summary of git workflow
+
+![workflow](workflow.jpeg)
+
+By @NikiSiapno
+
 ## Books  
 
 Rather R and Rstudio oriented, but excellent intro nonetheless is Jenny's [Happy Git and GitHub for the useR](https://happygitwithr.com/)
