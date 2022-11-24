@@ -40,9 +40,9 @@ Can be added using [Wiki pages](https://docs.github.com/en/github/building-a-str
 
 ## Visual summary of git workflow
 
-![workflow](workflow.jpeg)
+<img src="workflow.jpeg" alt="workflow" width="50%"/>
 
-By @NikiSiapno
+By @NikkiSiapno
 
 ## Books  
 
