@@ -1,4 +1,4 @@
-# Few github pointers.
+# Few github pointers
 
 ## Motivation
 
